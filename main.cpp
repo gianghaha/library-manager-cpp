@@ -23,7 +23,7 @@ void getEnterKey()
 int main()
 {
     // Insert code here
-    // aaaaa
+    // ggg
     git bar bool isOut = false;
     bool isLogged = false;
     bool isLegalChoose = true;
